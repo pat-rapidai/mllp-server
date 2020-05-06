@@ -2,7 +2,7 @@
 This project acts as a light weight test MLLP server to receive HL7 message
 
 ## Pre-requisites
-Check for npm and node versions. If both the requisites are installed, skip to this step.
+Check for npm and node versions. If both the requisites are installed, skip this step and proceed to installation.
 ```bash
 node --version
 npm --version
