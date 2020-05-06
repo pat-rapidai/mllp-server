@@ -10,8 +10,6 @@ npm --version
 
 1. Add NodeSource yum repository
 
-    The current LTS version of Node.js is version 10.x. If you want to install version 8 just change setup_10.x with setup_8.x in the command below.
-
     Run the following curl command to add the NodeSource yum repository to your system:
     ```bash
     curl -sL https://rpm.nodesource.com/setup_10.x | sudo bash -
@@ -48,7 +46,7 @@ npm --version
    ```
 
 ## Usage
-Initial the MLLP server by running the index.js file in node.
+Initialize the MLLP server by running the index.js file in node.
 ```bash
 node index.js
 ```
